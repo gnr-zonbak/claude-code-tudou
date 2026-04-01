@@ -1,4 +1,4 @@
-﻿# Claude Code Tudou (土豆版)
+﻿# Claude Code Tudou 
 
 基于 Claude Code 源码修复的 **本地增强版**。本项目不仅完整保留了 Claude Code 的 TUI 交互和 Agent 能力，还额外集成了 **Electron 桌面端** 界面，并支持通过环境变量灵活接入各类 Anthropic 兼容 API。
 
